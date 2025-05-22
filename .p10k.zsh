@@ -1,0 +1,1 @@
+/Users/bryce/.p10k.zsh
